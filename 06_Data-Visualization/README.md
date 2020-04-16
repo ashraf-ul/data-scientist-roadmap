@@ -141,8 +141,13 @@ There is many examples of chars using D3.js on [D3's Github](https://github.com/
 ## 13_ InfoVis
 
 ## 14_ IBM ManyEyes
+A website where you can look at other people's visualizations, or upload a data set and create your own. Sponsored by IBM Research and the IBM Cognos software group.
+The visualizations to the right are live, interactive, and let you see the data points of interest to you in detail.
+[Many Eyes home page](http://www-958.ibm.com/software/analytics/manyeyes/)
 
 ## 15_ Tableau
+Tableau is a powerful and fastest growing data visualization tool used in the Business Intelligence Industry. It helps in simplifying raw data into the very easily understandable format. Data analysis is very fast with Tableau and the visualizations created are in the form of dashboards and worksheets.
+[Tableau home page](https://www.tableau.com/)
 
 ## 16_ Venn diagram
 
